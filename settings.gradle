@@ -1,0 +1,5 @@
+// ============================================
+// 1. settings.gradle
+// ============================================
+rootProject.name = 'softwareleech-apk'
+include ':app'
